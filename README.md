@@ -21,7 +21,7 @@ Software Engineer | 🌍 From Mozambique
 
 ## 📈 GitHub Stats
 
-![Alison's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmicalison&show_icons=true&theme=radical)
+![Alison's GitHub stats](https://github-profile-trophy.vercel.app/?username=cosmicalison&theme=onedark)
 
 ---
 
