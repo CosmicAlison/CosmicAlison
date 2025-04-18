@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Alison Pariela
 
-<!--
-**CosmicAlison/CosmicAlison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | 🌍 From Mozambique  
+🚀 Currently exploring JavaScript, Java, React & cloud platforms
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Working On
+
+- 🛠 A gig app tackling unemployment in Africa  
+- ⚙️ A mobile app that connects women to career mentors 
+- 🌐 A movie recommendation app using AI
+
+---
+
+## 🧰 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=java,js,react,gcp,git,mongodb)
+
+---
+
+## 📈 GitHub Stats
+
+![Alison's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmicalison&show_icons=true&theme=radical)
+
+---
+
+## 🎯 Fun Facts
+
+
+- 💡 Loves breaking down complex problems
+- 🍵 Can live on boba and dark mode
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alison-pariela-559538223/)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:parielaalison@gmail.com)
+
