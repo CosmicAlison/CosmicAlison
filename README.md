@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alison Pariela
 
-Software Engineer | 🌍 From Mozambique  
+Software Engineer 
 🚀 Currently exploring JavaScript, Java, React & cloud platforms
 
 ---
@@ -22,14 +22,6 @@ Software Engineer | 🌍 From Mozambique
 ## 📈 GitHub Stats
 
 ![Alison's GitHub stats](https://github-profile-trophy.vercel.app/?username=cosmicalison&theme=onedark)
-
----
-
-## 🎯 Fun Facts
-
-
-- 💡 Loves breaking down complex problems
-- 🍵 Can live on boba and dark mode
 
 ---
 
