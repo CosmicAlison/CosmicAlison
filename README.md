@@ -5,17 +5,9 @@ Software Engineer
 
 ---
 
-## 🌱 What I'm Working On
-
-- 🛠 A gig app tackling unemployment in Africa  
-- ⚙️ A mobile app that connects women to career mentors 
-- 🌐 A movie recommendation app using AI
-
----
-
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,js,react,gcp,git,mongodb)
+![My Skills](https://skillicons.dev/icons?i=java,js,next,tailwind,gcp,git,sql)
 
 ---
 
