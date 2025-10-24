@@ -17,6 +17,9 @@ Software Engineer
 
 ---
 
+## 🚀 Badges
+https://www.holopin.io/@cosmicalison
+
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alison-pariela-559538223/)
