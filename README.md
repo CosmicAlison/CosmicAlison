@@ -18,7 +18,7 @@ Software Engineer
 ---
 
 ## 🚀 Badges
-https://www.holopin.io/@cosmicalison
+[![An image of @cosmicalison's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cosmicalison)](https://holopin.io/@cosmicalison)
 
 ## 📬 Connect With Me
 
