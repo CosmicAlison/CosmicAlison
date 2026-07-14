@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Alison Pariela
 
-Software Engineer 
-🚀 Currently exploring JavaScript, Java, React & cloud platforms
-
 ---
 
 ## 🧰 Tech Stack
