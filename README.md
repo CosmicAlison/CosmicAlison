@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Alison Pariela
 
+Software engineer who enjoys building things at the intersection of code, creativity, and AI.
+
 ---
 
 ## 🧰 Tech Stack
