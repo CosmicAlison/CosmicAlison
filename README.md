@@ -10,7 +10,7 @@
 
 ## 📈 GitHub Stats
 
-![Alison's GitHub stats](https://github-profile-trophy.vercel.app/?username=cosmicalison&theme=onedark)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cosmicalison?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
