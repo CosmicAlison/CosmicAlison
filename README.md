@@ -4,7 +4,7 @@
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,python,aws,js,gcp,sql)
+![My Skills](https://skillicons.dev/icons?i=java,python,spring,aws,js,gcp,sql,redis,docker,react)
 
 ---
 
