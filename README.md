@@ -16,9 +16,6 @@ Software engineer who enjoys building things at the intersection of code, creati
 
 ---
 
-## 🚀 Badges
-[![An image of @cosmicalison's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cosmicalison)](https://holopin.io/@cosmicalison)
-
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alison-pariela-559538223/)
